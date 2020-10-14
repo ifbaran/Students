@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "sincere@april.biz",
+    "department":  "Math" 
+    
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "shanna@melissa.tv",
+    "department": "Physics" 
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "nathan@yesenia.net",
+    "department": "Chemistry"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "julianne.OConner@kory.org",
+    "department": "Social Media"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "lucio_Hettinger@annie.ca",
+    "department": "Software Engineer"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "karley_Dach@jasper.info",
+    "department": "Computer Engineer"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "telly.Hoeger@billy.biz",
+    "department": "Physics"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "sherwood@rosamond.me",
+    "department": "Math"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "chaim_McDermott@dana.io",
+    "department": "Software Engineer"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "rey.Padberg@karina.biz",
+    "department": "Software Engineer"
+  }
+]
