@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -70,4 +70,4 @@
     "email": "rey.Padberg@karina.biz",
     "department": "Software Engineer"
   }
-}
+]
